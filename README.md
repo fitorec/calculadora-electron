@@ -1,6 +1,6 @@
 # Calculadora con Electron.js
 
-![alt text](https://raw.githubusercontent.com/fitorec/calculadora-electron/master/previo.png)
+![Calculadora con electron](https://github.com/fitorec/calculadora-electron/raw/master/previo.jpg)
 
 
 Esto es un proyecto que tiene como intensión el llevar paso a paso la creación de una aplicación con electron, para mayor información visitar:
